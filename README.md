@@ -1,11 +1,11 @@
-# Cuaderno de bitácora
-Fuentes del programa Cuaderno de Bitácora: http://www.alanit.com/software/cuaderno-de-bitacora/
+# el Puchero
+Fuentes del programa el Puchero: http://www.alanit.com/software/el-puchero/
 
-Cuaderno de Bitácora es un **organizador personal de libros, discos, vídeos, software, direcciones de internet y documentos**. Tiene funciones de búsqueda por múltiples críterios que son de gran utilidad a la hora de querer localizar un determinado ejemplar, y posee un recordatorio de préstamos de muy fácil uso. Incorpora ficheros de autores, editoriales, productoras de discos y vídeos, compañías de software, idiomas, y colecciones de todos los tipos. Además permite clasificar tus colecciones por materias y por ubicaciones. El programa se completa con un nuevo generador de listados completamente configurable.
+**el Puchero** es un **programa de organización de recetas de cocina**. Permite almacenar información sobre recetas de cocina clasificandolas por tipos de plato, por tipo de cocinado y en forma arborescente mediante la llamada *clasificación francesa*. Tiene funciones avanzadas de búsqueda y filtrado de recetas por múltiples críterios. Incorpora un fichero de ingredientes que permite realizar escandallos, fichero de proveedores de ingredientes, tabla de valoraciones de las recetas, fichero de autores y de publicaciones y sitios web relacionados con la cocina. 
 
 Esta aplicación requiere Borland C, Harbour y FivewinHarbour para compilarse. Yo uso FWH 19.05 y la versión correspondiente de Harbour empaquetada por Fivetech. Para compilar el programa hay que make btc1905 que compila los fuentes y crea el ejecutable.
 
-Mi editor es HippoEdit y el archivo bitacora.heprj es el archivo de proyecto para ese editor.
+Mi editor es HippoEdit y el archivo puchero.heprj es el archivo de proyecto para ese editor.
 
 La estructura de carpetas de la aplicación es la siguiente:
 
@@ -18,5 +18,4 @@ Para cualquier consulta escribirme a [joseluis@alanit.com](mailto:joseluis@alani
 
 Novelda, agosto de 2019. José Luis Sánchez Navarro
 
-![btc80-libros](btc80-libros.png)
-
+![pch650i](pch650i.png)
