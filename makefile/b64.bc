@@ -1,0 +1,35 @@
+.\OBJ\ZIPBACKUP.OBJ,+  
+puchero.exe, + 
+puchero.map, + 
+c:\fivetech\fwh170164\lib\Five64.a c:\fivetech\fwh170164\lib\FiveC64.a + 
+c:\fivetech\hb64\lib\hbrtl.a + 
+c:\fivetech\hb64\lib\hbvm.a + 
+c:\fivetech\hb64\lib\gtgui.a + 
+c:\fivetech\hb64\lib\hblang.a + 
+c:\fivetech\hb64\lib\hbmacro.a + 
+c:\fivetech\hb64\lib\hbrdd.a + 
+c:\fivetech\hb64\lib\rddntx.a + 
+c:\fivetech\hb64\lib\rddcdx.a + 
+c:\fivetech\hb64\lib\rddfpt.a + 
+c:\fivetech\hb64\lib\hbsix.a + 
+c:\fivetech\hb64\lib\hbdebug.a + 
+c:\fivetech\hb64\lib\hbcommon.a + 
+c:\fivetech\hb64\lib\hbpp.a + 
+c:\fivetech\hb64\lib\hbwin.a + 
+c:\fivetech\hb64\lib\hbcpage.a + 
+c:\fivetech\hb64\lib\hbct.a + 
+c:\fivetech\hb64\lib\hbcplr.a + 
+c:\fivetech\hb64\lib\hbpcre.a + 
+c:\fivetech\hb64\lib\xhb.a + 
+c:\fivetech\hb64\lib\hbziparc.a + 
+c:\fivetech\hb64\lib\hbmzip.a + 
+c:\fivetech\hb64\lib\hbzlib.a + 
+c:\fivetech\hb64\lib\minizip.a + 
+c:\fivetech\hb64\lib\png.a + 
+c:\fivetech\hb64\lib\hbusrrdd.a + 
+c:\fivetech\hb64\lib\hbtip.a + 
+c:\bcc\bcc7264\lib\cw64.a + 
+c:\bcc\bcc7264\lib\psdk\kernel32.a + 
+c:\bcc\bcc7264\lib\psdk\user32.a + 
+c:\bcc\bcc7264\lib\import64.a, 
+puchero.res 

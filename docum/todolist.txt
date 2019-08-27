@@ -1,0 +1,46 @@
+versión 7.0
+
+Pendiente:
+* revisar valid de autoget para llamar a registrame()
+* revisar #ifdef en los .prg - en mostrar ejemplares
+Realizado:
+* autoget de D. García Gil
+* versión unificada. El aviso de registro en EG se muestra cuando se selecciona un registro o se usa el autocompletado
+
+
+* make para 64 bits
+
+http://forums.fivetechsupport.com/viewtopic.php?f=3&t=33205&start=0
+
+versión 6.20 - 18/01/2017
+
+Pendiente:
+* BcnKitchen
+	1-Las listas de compra no las abre en PDF (actualmente lo estábamos solucionando imprimiendo directamente desde el puchero).
+	2-….pero ahora, imprimiendo directamente desde el puchero, solo nos permite imprimir una hoja…si quieres imprimir luego otra, debes cerrar y abrir de nuevo el programa.
+
+* Probar exportación con plantillas RTF
+* Revisar anchura de columnas de recetas de autores, publicaciones,... Tomar como base PlEjemplares
+* Revisar TInforme, no guarda los cambios al mover entre listado.
+
+* JB - Cambiar campo Dificultad 1 - 5
+* JB - Epoca: añadir 'todo el año'
+* JB - Añadir campo dedicación 1 - 5
+
+Realizado:
+Añadir ruta de XLS a la configuración
+[14/06/2016] Actualización del menú de la aplicación
+[13/06/2016] Al duplicar una receta se duplica el escandallo
+Exportar la receta a RTF - pendiente exportar imagen
+[26/04/16] Posibilidad de añadir una receta a un menú semanal y de evento desde gestión de recetas
+[11/04/16] Al dar de alta o modificar el proveedor de un alimento no se refleja en el número de alimentos del proveedor
+[11/04/16] Exportación a Excel generando XLS directo
+Cambiar título de dialogos msg*: msgyesno, 
+[08/04/16] Búsquedas libres en recetas, menus, menus semanales, platos, ing. principal, valoración, dietas, ingredientes, grupos, 
+	proveedores, ubicaciones, autores, publicaciones
+[01/04/16] Corregidas búsquedas en clasificación francesa
+[15/03/16] Modificar copiado/pegado al portapapeles como XML
+[14/03/16] Exportar escandallo a Excel
+[14/03/16] Copiar escandallo a campo ingredientes
+[08/03/16] Modificada importación/exportación de PCH como XML
+[HECHO] Intentar poner el fondo de la clasificación francesa como Windows 7 - No se puede

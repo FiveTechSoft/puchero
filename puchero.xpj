@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<Project>
+   <Type Value="exe"/>
+   <Description Value="puchero"/>
+   <Output Value="puchero.exe"/>
+   <Environment Value="FWH1701"/>
+   <MainModule Value="Main.prg"/>
+   <MultipleInstances Value="Y"/>
+   <XPManifest Value="Y"/>
+   <Icon Value="ICON1"/>
+   <Parameters Value=""/>
+   <Version>
+      <VersionInfo Value="N"/>
+      <Version Value="1.0"/>
+      <Release Value="0"/>
+      <Build Value="1"/>
+      <Company Value=""/>
+      <CopyRight Value=""/>
+      <TradeMarks Value=""/>
+      <Comments Value=""/>
+   </Version>
+   <Directories>
+      <SourceDir Value="prg"/>
+      <IncludeDir Value="ch"/>
+      <ResourceDir Value="recursos"/>
+      <ObjDir Value="obj"/>
+   </Directories>
+   <Options>
+      <AutomaticMemvarDeclaration Value="N"/>
+      <DebugInfo Value="N"/>
+      <SuppressLineNumberInformation Value="N"/>
+      <SuppressShortcutting Value="N"/>
+      <WarnningLevel Value="1"/>
+      <MoreOptions Value=""/>
+      <MoreCOpt Value=""/>
+      <MapFile Value="N"/>
+      <ConsoleMode Value="N"/>
+      <MoreLinkOpt Value=""/>
+   </Options>
+   <Export>
+      <Dir Value=""/>
+      <Source Value="Y"/>
+      <Exe Value="N"/>
+      <Bin Value="N"/>
+      <Resource Value="Y"/>
+      <ResourceAll Value="N"/>
+      <ErrorLog Value="N"/>
+      <Subprojects Value="Y"/>
+   </Export>
+   <Clean>
+      <All Value="N"/>
+   </Clean>
+   <FinalExe>
+      <FullCompile Value="N"/>
+      <UpxCompress Value="N"/>
+      <CompressFlags Value=""/>
+      <Installer Value="N"/>
+      <InstallerFlags Value=""/>
+      <TlbInfo Value="N"/>
+   </FinalExe>
+   <VCS>
+      <Type Value="None"/>
+   </VCS>
+   <Files>
+      <File Filename="Main.prg"/>
+      <File Filename="PAccion.prg"/>
+      <File Filename="PAliment.prg"/>
+      <File Filename="PAutor.prg"/>
+      <File Filename="PDietas.prg"/>
+      <File Filename="PEscanda.prg"/>
+      <File Filename="PFrances.prg"/>
+      <File Filename="PGrupos.prg"/>
+      <File Filename="PIngredi.prg"/>
+      <File Filename="PMenus.prg"/>
+      <File Filename="PMenusem.prg"/>
+      <File Filename="PPlatos.prg"/>
+      <File Filename="PProveed.prg"/>
+      <File Filename="PPublica.prg"/>
+      <File Filename="PRecetas.prg"/>
+      <File Filename="PUbicaci.prg"/>
+      <File Filename="PValorac.prg"/>
+      <File Filename="c5imglis.prg"/>
+      <File Filename="c5tip.prg"/>
+      <File Filename="c5vitem.prg"/>
+      <File Filename="c5vmenu.prg"/>
+      <File Filename="errsysw.prg"/>
+      <File Filename="rpreview.prg"/>
+      <File Filename="rtffile.prg"/>
+      <File Filename="tabs.prg"/>
+      <File Filename="tagever2.prg"/>
+      <File Filename="tautoget.prg"/>
+      <File Filename="tfsdi.prg"/>
+      <File Filename="tInforme.prg"/>
+      <File Filename="tips.prg"/>
+      <File Filename="tsayref.prg"/>
+      <File Filename="tzoomImage.prg"/>
+      <File Filename="ut_brw.prg"/>
+      <File Filename="ut_calend.prg"/>
+      <File Filename="ut_common.prg"/>
+      <File Filename="ut_dbf.prg"/>
+      <File Filename="ut_fonts.prg"/>
+      <File Filename="ut_index.prg"/>
+      <File Filename="ut_msg.prg"/>
+      <File Filename="zipbackup.prg"/>
+      <File Filename="puchero.rc"/>
+      <File Filename="docum\whatsnew.txt"/>
+      <File Filename="puchero.ini"/>
+      <File Filename="datos\XLS\casaverde.csv"/>
+   </Files>
+   <Libraries>
+      <Library Filename="[fwh1701]FiveH.lib"/>
+      <Library Filename="[fwh1701]FiveHC.lib"/>
+      <Library Filename="[fwh1701]FileXls.lib"/>
+      <Library Filename="[Harbour]hbextern.lib"/>
+      <Library Filename="[Harbour]hbdebug.lib"/>
+      <Library Filename="[Harbour]hbvm.lib"/>
+      <Library Filename="[Harbour]hbrtl.lib"/>
+      <Library Filename="[Harbour]hblang.lib"/>
+      <Library Filename="[Harbour]hbcpage.lib"/>
+      <Library Filename="[Harbour]gtcgi.lib" Link="N"/>
+      <Library Filename="[Harbour]gtpca.lib" Link="N"/>
+      <Library Filename="[Harbour]gtstd.lib" Link="N"/>
+      <Library Filename="[Harbour]gtwin.lib"/>
+      <Library Filename="[Harbour]gtwvt.lib" Link="N"/>
+      <Library Filename="[Harbour]gtgui.lib" Link="N"/>
+      <Library Filename="[Harbour]hbrdd.lib"/>
+      <Library Filename="[Harbour]hbuddall.lib"/>
+      <Library Filename="[Harbour]hbusrrdd.lib"/>
+      <Library Filename="[Harbour]rddntx.lib"/>
+      <Library Filename="[Harbour]rddcdx.lib"/>
+      <Library Filename="[Harbour]rddnsx.lib"/>
+      <Library Filename="[Harbour]rddfpt.lib"/>
+      <Library Filename="[Harbour]rddads.lib" Link="N"/>
+      <Library Filename="[Harbour]ace32.lib" Link="N"/>
+      <Library Filename="[Harbour]hbhsx.lib"/>
+      <Library Filename="[Harbour]hbsix.lib"/>
+      <Library Filename="[Harbour]hbmacro.lib"/>
+      <Library Filename="[Harbour]hbcplr.lib"/>
+      <Library Filename="[Harbour]hbpp.lib"/>
+      <Library Filename="[Harbour]hbcommon.lib"/>
+      <Library Filename="[Harbour]hbmainwin.lib"/>
+      <Library Filename="[Harbour]hbmxml.lib"/>
+      <Library Filename="[Harbour]mxml.lib"/>
+      <Library Filename="[Harbour]hbpcre.lib"/>
+      <Library Filename="[Harbour]hbwin.lib"/>
+      <Library Filename="[Harbour]hbmzip.lib"/>
+      <Library Filename="[Harbour]minizip.lib"/>
+      <Library Filename="[Harbour]hbzlib.lib"/>
+      <Library Filename="[bcc]c0w32.obj"/>
+      <Library Filename="[bcc]psdk\odbc32.lib"/>
+      <Library Filename="[bcc]psdk\msimg32.lib"/>
+      <Library Filename="[bcc]cw32.lib"/>
+      <Library Filename="[bcc]import32.lib"/>
+      <Library Filename="[bcc]wininet.lib"/>
+   </Libraries>
+</Project>
+

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT PCX="5">
+<Recetas>
+   <Structure>
+      <Field>
+         <Field_name>RECODIGO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETITULO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        60</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPLATO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETIPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETIPOCOC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REEPOCA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINGPRI</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECOMENS</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         3</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINGRED</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REPREPAR</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>RETIEMPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REDIFICU</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPRECIO</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPPC</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECALORI</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETRUCOS</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REVINO</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REPUBLICA</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REAUTOR</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFRCARGO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFRTIPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REEMAIL</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPAIS</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RENUMERO</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPAGINA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RESELECC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REIMAGEN</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>       120</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REESCAN</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REMULTIP</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPFINAL</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REREFEREN</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REANOTACI</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        60</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFCHPREP</Field_name>
+         <Field_type>Date</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REVALORAC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REVAORDEN</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         2</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REUSUARIO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINCORP</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFICHERO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        12</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFCHINCO</Field_name>
+         <Field_type>Date</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REEXPRES</Field_name>
+         <Field_type>Logical</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REDIETAS</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>       200</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REURL</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        90</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECOMESC</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         3</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+   </Structure>
+   <Data>
+      <Record>
+         <RECODIGO>BU0026</RECODIGO>
+         <RETITULO>BUEY A LA PROVENZAL</RETITULO>
+         <REPLATO>3</REPLATO>
+         <RETIPO>BUEY</RETIPO>
+         <RETIPOCOC>ESTOFADO</RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI>Buey</REINGPRI>
+         <RECOMENS>6</RECOMENS>
+         <REINGRED>- 750 g de carne de buey (morcillo o aguja)
+- 2 cebollas
+- 2 tomates maduros grandes
+- 12 aceitunas negras deshuesadas
+- 50 g de tocino troceado a dados pequeños
+- 1/4 de l de vino blancoseco 
+- 1/4 de l de agua
+- 1 hoja de laurel
+- 2 ramitas de tomillo
+- 2 ramitas de perejil
+- 4 cucharadas soperas de aceite de oliva
+- sal y pimienta
+
+
+</REINGRED>
+         <REPREPAR>Trocear la carne en tacos. Pelar y picar las cebollas. Pelar y trocear los tomates. Cortar en rodajas las aceitunas. Trocear el tocino en dados pequeños. Calentar 4 cucharadas soperas de aceite en una cazuela de fondo grueso y freír la carne troceada, removiéndola constantemente. 
+     Agregar las cebollas y rehogar hasta que empiecen a dorarse. Incorporar el vino, el agua, el laurel, el tomillo y perejil. Añadir un poco de sal, tapary dejar cocer a fuego muy lento dos horas y media. Sacar la carne y pasarla a otra cazuela. 
+
+      Freír en una sartén los dados de tocino, con 1 cucharada sopera de aceite, hasta que estén dorados; sacarlos, escurrir la grasa y pasarlos a la cazuela con la carne. Agregar los tomates ylas aceitunas. Pasar la salsa de la cocción, a través de un tamiz, sobre la cazuela donde están la carne y los demás ingredientes. Probar el punto desal, sazonar con pimienta en polvo o con una pizca de cayena, cocer 30 minutos más y servir.
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS>La cocina provenzal es, ante todo, simplicidad y naturalidad, basadas en la utilización de unos excelentes productos. Las hierbas aromáticas yel ajo perfuman sutilmente los distintos platos y el aceite de oliva, frutado y pleno de matices, personaliza esta cocina, dorada por el sol y llena de color. 
+
+
+</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO>10 3 0 0 0</REFRCARGO>
+         <REFRTIPO>Bovino</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>FRANCIA</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>super</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>1PGAMVAR</RECODIGO>
+         <RETITULO>Gambes a l&apos;estil Varadero</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>PESCADO</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1110</REEPOCA>
+         <REINGPRI>Gambas grandes</REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>Gambas grandes.
+1 pebrot vermell.
+2 pebrots verds.
+4 dents d&apos;all.
+1 ceba grossa.
+1 pot de tomaquet triturat (400grs).
+1 got de cervesa.
+1 bitixo (guindilla petita)
+1 polsim de pebre.
+Aigua o caldo de peix.
+Arrós blanc per acompanyar.
+Oli d&apos;oliva.</REINGRED>
+         <REPREPAR>Tallem els pebrots, la ceba i els alls a trossos petits i ho saltejem amb una mica d&apos;oli dins d&apos;una cassola o wok.
+Abocar-hi el tomaquet i la cervesa, i deixar reduir fins que quedi una salsa espessa.
+Ficar les gambes i una mica de caldo de peix i coure 10 minuts.
+Muntar el plat acompanyat d&apos;un flam d&apos;arròs bullit saltejat amb oli.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>Fent Bullir l&apos;olla ... al Maresme</REPUBLICA>
+         <REAUTOR>Restaurant Nautilus</REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO>Pescados y mariscos</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>Catalunya</REPAIS>
+         <RENUMERO>2005</RENUMERO>
+         <REPAGINA>36</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.32</REESCAN>
+         <REMULTIP>2.99</REMULTIP>
+         <REPFINAL>0.96</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO></REFICHERO>
+         <REFCHINCO>20150815</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>4</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>SOTOPA</RECODIGO>
+         <RETITULO>SOPA CAMPERA DE TOMATES Y PATATAS  (F)</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>SOPAS</RETIPO>
+         <RETIPOCOC>FRITO+COCIDO</RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>1/2 kg de patatas,
+1 cebolla,
+2 dientes de ajo,
+2 pimientos rojo,
+1 pimiento verde,
+4 tomates rojos,
+1 pastilla de caldo de carne o aldo de carne,
+aceite de oliva,
+1 hoja de laurel,
+tomillo, orégano, romero,
+sal y pimienta,
+pan de pueblo asentado.</REINGRED>
+         <REPREPAR>En una cazuela poner el aceite a calentar, rehogar en ella la cebolla picada, los pimientos cortados en trozos no muy pequeños y los ajos prensados, cuando la verdura esté tierna añadimos el tomate pelado y troceado, rehogamos durante unos 10 minutos, añadimos  las patatas cortadas en rodajas de regular grosor. Cuando la cebolla esté transparente añadir el caldo, la hoja de laurel y una ramita de tomillo, orégano y romero, salpimentar, cuando las patatas estén tiernas, apartar.
+En otra cazuela poner las rebanadasde pan del dia anterior y echar sabre ellas el caldo anterior, comprobar de sal y servir caliente o fria, al gusto de cada cual.
+Receta típica de Extremadura.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>2.00</REPRECIO>
+         <REPPC>4.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>COCINA PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO>P0241</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>VRTMCN</RECODIGO>
+         <RETITULO>TOMATES CONFITADOS (F)</RETITULO>
+         <REPLATO>1</REPLATO>
+         <RETIPO>VERDURAS</RETIPO>
+         <RETIPOCOC>HORNO</RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>10 tomates
+1 diente de ajo
+10 hojas de albahaca
+10 ramitas de tomillo fresco
+aceite de oliva virgen extra
+1/2 cucharadita de te de azúcar
+sal y pimienta negra</REINGRED>
+         <REPREPAR>Pelar los tomates una vez escaldados en agua caliente y después en agua muy fria. Después cortar por la mitad y dejar secar sobre papel de cocina. Pintarlos generosamente por todos los lados con aceite de oliva y poner dentro de cada uno, una lámina de ajo, un poco de laurel triturado, albahaca y tomillo. Salpimentar cuidadosamente y espolvorear con azúcar.
+
+Meter en el horno previamente calentado y ternerlos con la parte cortada hacia arriba unas 4 horas y a las dos horas darles la vuelta. El tiempo de horneado dependerá de lo maduros que estén los tomates. Cuando estén hechos tendrán un intenso color rojo y ligeramente arrugados. Podemos guardarlos en recipientes hermeticos cubiertos de aceite de oliva y junto a las hierbas aromaticas que se han usado. Son deliciossos casi con cualquier cosa y el aceite es magnifico para ensaladas.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>1.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>FRANCIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>512 0 0 0</REFRCARGO>
+         <REFRTIPO>TOMATES</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS>España</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>DECORATIVA</REVALORAC>
+         <REVAORDEN>8</REVAORDEN>
+         <REUSUARIO>P0241</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>HUTOPT</RECODIGO>
+         <RETITULO>TORTILLA DE PATATAS y CEBOLLA.</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>HUEVOS</RETIPO>
+         <RETIPOCOC>FRITO-COCIDO</RETIPOCOC>
+         <REEPOCA>1</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>1</RECOMENS>
+         <REINGRED>250 gr de patatas,
+4 huevos,
+1 cebolla,
+aceite de oliva,
+sal.</REINGRED>
+         <REPREPAR>Pelar y cortar las patatas en rodajas no muy gruesas, freirlas en la olla exprés sin que lleguen a dorarse, pero que estén tiernas y también se le abrá añadido cebolla cortada a rodajas.
+Batir los huevos y mezclarlos con las patatas, en una sartén hechar un poquito de aceite, cuando esté caliente añadir la mezcla de patatas, darle forma con la espumadera e ir dandole la vuelta con un plato sopero hasta que esté cuajada y doradita, y por supuesto muy jugosa</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS>Posar la ceba mentre s&apos;està fregint les patates, i aquestes comencen a cambiar de color. 
+Un cop estan junts els dos ingredients, anar remenant, així quan es faci la truita estaran uniformement repartits.</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>6 1 0 0 0</REFRCARGO>
+         <REFRTIPO>Tortillas</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\fotos\hutopt.jpg</REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>3.25</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+   </Data>
+</Recetas>
+</ROOT>

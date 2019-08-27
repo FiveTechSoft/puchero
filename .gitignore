@@ -1,0 +1,12 @@
+*.obj
+*.exe
+*.nit
+*.dll
+/_ebook/
+/_freeimage/
+/_recetas/
+/_tword/
+/obj/
+/prg/fwh/
+/prg-backup/
+/res/

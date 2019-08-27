@@ -1,0 +1,6 @@
+pendiente
+	>> incorporar proteinas, grasas y carbohidratos en las recetas
+
+versión 6.60.d
+	* limpieza de oAGet, #_registrada_
+	* nueva edición gratuita con temporizador de aviso

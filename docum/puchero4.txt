@@ -1,0 +1,73 @@
+Lista de correo:
+
+
+* poder generar la receta en formato HTML
+
+* poder combinar primeros platos, segundos y postres en una misma hoja para elaborar menús y calcular el coste de los mismos también para cualquier número de comensales.
+
+* generación de menús semanales. Ver menus1.xls
+
+* Al final de esta pantalla de escandallo se llega a apartados importantisimos:
+	PRECIO               COMENSALES                       PRECIO COMENSAL
+Faltan cosas para el profesional de Hostelería. Se`podrían crear tres nuevos campos:
+	COEFICIENTE MULTIPLICADOR 
+	PRECIO CON GASTOS EMPRESA 
+	PRECIO FINAL AL CLIENTE
+Todos los hoteles y restaurantes, al precio basico de los alimentos, lo multiplican por una cantidad fija, "coeficiente multiplicador", que en mi hotel es el 3,5 y ese es el precio mínimo de facturacion que ha de cobrarse al cliente.
+Ejemplo
+Precio escandallo.................536 pts
+Coeficiente multiplicador .......3,5
+Precio con gastos empresa 1.876 pts
+Precio final al cliente...........2.000 pts
+Estos datos serían muy importante reflejarlos en algún lado.
+
+* He detectado un punto que creo mejorable. Resulta que hace 3 semanas he formateado los discos duros de mi ordenador y al volver a instalar el puchero me he dado cuenta que cuando incorpora las recetas que antes tenisan una dirección de accesos a imagen, esta dirección ha desaparecido con lo cual no sale ninguna imagen.
+
+* Otro tema: no sería posible hacer el cambio de propia a incorporada o viceversa por medio de el resultado de una selección. Actualmente es muy pesado tener que hacerlo de una en una.
+
+* Para proximas actualizaciones seria practico que aceptara 
+imagenes en jpg y permitir un uso menos complejo de los ingredientes. Seria 
+maravilloso poder sacar la lista de la compra, o hacer un menu con las 
+recetas.
+
+* Puedo un plato hacerlo artículo que forme parte de otra receta.  Es
+decir, si yo tengo la receta de una salsa española, y voy a hacer la receta
+de un solomillo en salsa de oporto que lleva un poco de salsa española,
+meterlo como artículo, sino es así creo que ahorraría mucho trabajo de
+batalla.
+
+* de que forma nos podríamos pasar recetas sin que no se modifique nada del programa de cada uno.  Es decir, por ejemplo, un asistente de incorporación de recetas, donde las seleccionamos y las englobamos dentro de cada grupo.
+
+* Campos nutricionales conseguir que al introducir los ingredientes aparezcan sus correspondientes valores y sus calorías cuantificadas. Existe unprograma con un libro que te hace una cosa muy parecida, lo busco y te digo cual es,también conozco a una Dra. que nos dá cursos por si te vale.
+
+* Menús: Diario> Fecha/Desayuno/Almuerzo/Merienda/Cena
+         Semanal> Fecha/almuerzo/cena
+
+* Tarjeta para comensal: Almuerzo (comidas de gala), Cena
+
+* Opción Bodega:
+   - Poder registrar bebidas (vinos, cavas, etc)
+   - Que el seleccionado lo incorpore al menú
+
+* Opción Asesoría:
+   - Distinguir la carne y pescados y recomendar su mejor tipo de preparación, o al menos, que el usuario lo pueda configurar.
+   - Consejos sobre útiles y electrodomesticos de cocina.
+   - Trucos de cocina (que el usuario pueda añadir)
+   - Vocabulario (que el usuario pueda añadir)
+
+* Una funcionalidad muy interesante para vuestro programa seria poder imprimir varias fichas con una sola orden, ya que es muy frecuente tener que entregar todo el fichero de "Entradas" o "Postres" a los jefes de cocina, y ello evitaría la impresión receta a receta
+
+* OTRA interesante funcionaliad es poder crear Planning de dietas para un mes... como las hojas de menues que dan en los colegios.
+
+* cuando se pide el listado para imprimir de alimentos, no aparecen ni los precios ni la fecha de ultima compra.No sería interesante que el usuario pudiera elegir que imprimir y que no de esta lista?.
+
+* la posibilidad de tener recetas dentro de recetas.  Es decir una salsa para una carne o ensalada, como una receta aparte y que saca costos y elementos primarios aparte. Otro ejemplo puede ser un pure de papa o una papa hechiza ...
+
+* Ficha técnica y escandallo de la Escola de Cambrils - ver directorio Cambrils
+
+* Si entramos muchas recetas de distintas procedencias, no nos vamos a encontrar con un fichero hinchado con muchos alimentos repetidos y código distinto? Que solucion se le puede dar a este tema?
+
+* Hacer copias de seguridad en fichero ZIP que luego se pueda copiar a otro sitio, como por ejemplo CD.
+
+* Ver Julian.doc
+

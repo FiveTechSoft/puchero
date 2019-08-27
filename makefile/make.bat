@@ -1,0 +1,1 @@
+c:\bcc55\bin\make -f pch1204.mak

@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ROOT PCX="escan">
+<Recetas>
+   <Structure>
+      <Field>
+         <Field_name>RECODIGO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETITULO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        60</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPLATO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETIPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETIPOCOC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REEPOCA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINGPRI</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECOMENS</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         3</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINGRED</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REPREPAR</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>RETIEMPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REDIFICU</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPRECIO</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPPC</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECALORI</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RETRUCOS</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REVINO</Field_name>
+         <Field_type>Memo</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REPUBLICA</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REAUTOR</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFRCARGO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFRTIPO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REEMAIL</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPAIS</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RENUMERO</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPAGINA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         4</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RESELECC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REIMAGEN</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>       120</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REESCAN</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REMULTIP</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REPFINAL</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REREFEREN</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REANOTACI</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        60</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFCHPREP</Field_name>
+         <Field_type>Date</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REVALORAC</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        20</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REVAORDEN</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         2</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REUSUARIO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REINCORP</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFICHERO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        12</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REFCHINCO</Field_name>
+         <Field_type>Date</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REEXPRES</Field_name>
+         <Field_type>Logical</Field_type>
+      </Field>
+      <Field>
+         <Field_name>REDIETAS</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>       200</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>REURL</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        90</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>RECOMESC</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         3</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+   </Structure>
+   <Data>
+      <Record>
+         <RECODIGO>0023</RECODIGO>
+         <RETITULO>Madalenas de Fátima</RETITULO>
+         <REPLATO>5</REPLATO>
+         <RETIPO>TARTAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI>Huevo</REINGPRI>
+         <RECOMENS>12</RECOMENS>
+         <REINGRED>Azúcar....100g
+Piel de Limón
+Huevos....2 
+Medio sobre de levadura química
+Harina de reposteria....270g
+Leche...170cl
+Aceite....160cl
+</REINGRED>
+         <REPREPAR></REPREPAR>
+         <RETIEMPO>45&apos;</RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR>Fatima Sanchez Rico</REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO>Pastas alimenticias</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>1</REINCORP>
+         <REFICHERO></REFICHERO>
+         <REFCHINCO>20130915</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Dunkan; Puntos;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>BU0026</RECODIGO>
+         <RETITULO>BUEY A LA PROVENZAL</RETITULO>
+         <REPLATO>3</REPLATO>
+         <RETIPO>BUEY</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI>Cerdo</REINGPRI>
+         <RECOMENS>6</RECOMENS>
+         <REINGRED>- 750 g de carne de buey (morcillo o aguja)
+- 2 cebollas
+- 2 tomates maduros grandes
+- 12 aceitunas negras deshuesadas
+- 50 g de tocino troceado a dados pequeños
+- 1/4 de l de vino blancoseco 
+- 1/4 de l de agua
+- 1 hoja de laurel
+- 2 ramitas de tomillo
+- 2 ramitas de perejil
+- 4 cucharadas soperas de aceite de oliva
+- sal y pimienta
+
+
+</REINGRED>
+         <REPREPAR>Trocear la carne en tacos. Pelar y picar las cebollas. Pelar y trocear los tomates. Cortar en rodajas las aceitunas. Trocear el tocino en dados pequeños. Calentar 4 cucharadas soperas de aceite en una cazuela de fondo grueso y freír la carne troceada, removiéndola constantemente. 
+     Agregar las cebollas y rehogar hasta que empiecen a dorarse. Incorporar el vino, el agua, el laurel, el tomillo y perejil. Añadir un poco de sal, tapary dejar cocer a fuego muy lento dos horas y media. Sacar la carne y pasarla a otra cazuela. 
+
+      Freír en una sartén los dados de tocino, con 1 cucharada sopera de aceite, hasta que estén dorados; sacarlos, escurrir la grasa y pasarlos a la cazuela con la carne. Agregar los tomates ylas aceitunas. Pasar la salsa de la cocción, a través de un tamiz, sobre la cazuela donde están la carne y los demás ingredientes. Probar el punto desal, sazonar con pimienta en polvo o con una pizca de cayena, cocer 30 minutos más y servir.
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS>La cocina provenzal es, ante todo, simplicidad y naturalidad, basadas en la utilización de unos excelentes productos. Las hierbas aromáticas yel ajo perfuman sutilmente los distintos platos y el aceite de oliva, frutado y pleno de matices, personaliza esta cocina, dorada por el sol y llena de color. 
+
+
+</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR>BENET CAMPS MARSAL</REAUTOR>
+         <REFRCARGO>10 3 0 0 0</REFRCARGO>
+         <REFRTIPO>Bovino</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>FRANCIA</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>C:\alanit\develop\puchero\FOTOS\TOMANO.JPG</REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>super</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>CE0047</RECODIGO>
+         <RETITULO>Solomillos sorpresa</RETITULO>
+         <REPLATO>3</REPLATO>
+         <RETIPO>CERDO</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>3 solomillos de cerdo 
+2 ajos tiernos 
+6 nueces 
+150 gr.de piñones 
+100 gr. de pasas de Corinto 
+60 gr. de miga de pan
+1 huevo 
+1 copa de aguardiente 
+9 lonchas de panceta ahumada 
+2 y 1/2 dl. de caldo de carne 
+1 cucharadita de fécula 
+6 tomates 
+Sal 
+Azúcar 
+</REINGRED>
+         <REPREPAR>Preparar el relleno con pan, huevo, nueces, piñones, ajos tiernos, pasas... todo picado. Salpimentar. Abrir los solomillos, sazonarlos y repartir el relleno. Cerrarlos, cubrirlos con 3 lonchas de panceta y atarlos. Regar conaguardiente y hornear 45 min a 200 ºC. En otra fuente asar los tomates.
+
+Hacer la salsa desglasando los jugos del asado, el caldo de carne y la fécula en un cazo. Dejar cocer durante unos 10 min. Servir los solomillos con los tomates abiertos por la mitad y la salsa en una salsera.
+ 
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>2</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>2</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR>EMBUTIDOS ARCENIEGA</REAUTOR>
+         <REFRCARGO>10 2 0 0 0</REFRCARGO>
+         <REFRTIPO>Porcino</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>P0038</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Cronodieta; Dunkan;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>CM0009</RECODIGO>
+         <RETITULO>CREMA DE CALABAZA Y CALABACÍN</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>CREMAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>1/2 Kg. de calabaza naranja,
+2 calabacines medianos
+1 cebollagrande
+una cucharada sopera de mantequilla,
+200 ml de crema deleche
+4 quesitos en porciones para untar
+aceite,sal y pimientaal gusto.
+</REINGRED>
+         <REPREPAR>Lavar y secar la calabaza y el calabacín. Quitarle la corteza y las semillas a la calabaza corlándola en dados pequeños. Cortar, también, elcalabacín y la cebolla.
+
+        En una olla poner a deshacer a fuego lento la mantequilla con un chorro de aceite, cuando empiece a humearañadir la calabaza, el calabacín y la cebolla, remover y tapar, dejando quese cueza a fuego lento hasta que quede tierno, entonces añadir agua hastaque lo cubra todo, llevarlo a ebullición y dejar que hierva unos minutos. Añadir la crema de leche y triturar con la batidora. Añadir el queso y dejaren el fuego , removiendo, hasta que se funda por completo (si se quiere ahorrar tiempo se puede poner el queso al mismo tiempo que la crema de leche ydespués pasar por la batidora), rectificar de sal y poner pimienta al gusto.
+
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>2</RECALORI>
+         <RETRUCOS>Esta crema se puede tomar fría o caliente, queda muy elegante si enlos platos servidos se espolvorea un poco de perejil picado u orégano.
+ 
+     Hay quien le pone patata al principio de la preparación, deesta manera queda mas como un puré.
+ 
+</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>ESPAÑA</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>EM0033</RECODIGO>
+         <RETITULO>Cuernitos menonitas</RETITULO>
+         <REPLATO>1</REPLATO>
+         <RETIPO>EMPANADAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>20</RECOMENS>
+         <REINGRED>1/2 kilo de pasta de hojaldre
+10 rebanadas de salami menonita (se puede sustituir por otro salami)
+1 taza de queso Chihuahua rallado finamente
+1 huevo medio batido con una cucharada de agua fría
+Rinde20 piezas aproximadamente
+</REINGRED>
+         <REPREPAR>La pasta de hojaldre se extiende en una mesa enharinada a un grosor de tres milímetros; se cortan 10 cuadritos de 10 centímetros, se parten éstos a la mitad formando triángulos, se pone a cada triángulo media rebanada de salami y un poco de queso rallado, se enrollan comenzando por la punta para formar los cuernitos. Se barnizan con huevo batido, se colocan en una charolade horno, y se meten al horno precalentando a 250°C de 12 a 15 minutos o hasta que estén cocidos y doraditos. 
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS>Presentación:
+Se sirve en una canasta cubierta con una servilleta.
+
+Esta receta nos la proporcionaron los hermanos Ernesto e EsidroParada, quienes se dedican a servir banquetes en la ciudad de Chihuahua. Los cuernitos son deliciosos como botana.</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>http://www.chi.itesm.mx/chihuahua/</REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>México</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>P0038</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Cronodieta; Dunkan;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>EN0064</RECODIGO>
+         <RETITULO>ENSALADA AZTECA</RETITULO>
+         <REPLATO>1</REPLATO>
+         <RETIPO>ENSALADAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>6</RECOMENS>
+         <REINGRED>200 gr de frijoles cocidos 
+200 gr de granos de maíz 
+4 cebollitas de cambray 
+1 pimiento verde grande 
+el tallo verde de la cibollita cambray 
+1 o 2 chiles jalapeños 
+2 cucharadas de cilantro picado 
+aceite de oliva 
+sal y pimienta blanca 
+</REINGRED>
+         <REPREPAR>Cocer los frijoles sin que queden muy suaves. En otra olla cocer los granos de elote. 
+
+     Cortar en cuadros pequeños las cebollitas de cambray y el pimiento verde. Rebanar los tallos de las cebollas. 
+
+     Cuando los granos de elote y los frijoles estén cocidos, mezclar todos los ingredientes. Aderezar con el aceite, sal y pimienta. Se puede servir decorando la ensalada con unas rodajas de jitomate o perejil chino.</REPREPAR>
+         <RETIEMPO>00:50</RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS>Preparación: 10 min.
+Cocción: 40 min.</RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>Homoscorpius</REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>MÉXICO</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>super</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>FR0036</RECODIGO>
+         <RETITULO>FRESAS AL OPORTO</RETITULO>
+         <REPLATO>4</REPLATO>
+         <RETIPO>FRUTAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>100</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>1/2 Kg de fresones
+120 g de azúcar
+1 vaso de Oporto
+1 vaso de nata para montar</REINGRED>
+         <REPREPAR>Lavar los fresones, retirarles el rabito y disponerlos en un  recipiente. Espolvorearlos con 8 cucharadas de azúcar y rociarlos con el Oporto. 
+  Dejar macerar, en el frigorífico, durante unas 6 horas, aproximadamente. 
+
+        Montar la nata con las varillas hasta que esté semimontada, que quede con una crema densa, y mezclar con 2 cucharadas de azúcar.  
+          
+     Repartir los fresones en copas o bolesindividuales y rociarlos con el  jugo de maceración.  Espolvorear las frutas con el azúcar restante y verter por encima un poco de la nata semimontada. Servir al momento.</REPREPAR>
+         <RETIEMPO>00:40</RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>2</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>‘‹‹</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>0</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>HUTOPT</RECODIGO>
+         <RETITULO>TORTILLA DE PATATAS CLÁSICA (F)</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>HUEVOS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1</REEPOCA>
+         <REINGPRI>Patatas</REINGPRI>
+         <RECOMENS>1</RECOMENS>
+         <REINGRED>250 gr de patatas,
+4 huevos,
+1 cebolla,
+aceite de oliva,
+sal.</REINGRED>
+         <REPREPAR>Pelar y cortar las patatas en rodajas no muy gruesas, freirlas en la olla exprés sin que lleguen a dorarse, pero que estén tiernas y también se le abrá añadido cebolla cortada a rodajas.
+Batir los huevos y mezclarlos con las patatas, en una sartén hechar un poquito de aceite, cuando esté caliente añadir la mezcla de patatas, darle forma con la espumadera e ir dandole la vuelta con un plato sopero hasta que esté cuajada y doradita, y por supuesto muy jugosa</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>6 1 0 0 0</REFRCARGO>
+         <REFRTIPO>Entremeses</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\fotos\hutopt.jpg</REIMAGEN>
+         <REESCAN>1.98</REESCAN>
+         <REMULTIP>3.25</REMULTIP>
+         <REPFINAL>6.44</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Puntos;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>HUTOPT</RECODIGO>
+         <RETITULO>TORTILLA DE PATATAS CLÁSICA (F)</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>HUEVOS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>1</RECOMENS>
+         <REINGRED>250 gr de patatas,
+4 huevos,
+1 cebolla,
+aceite de oliva,
+sal.</REINGRED>
+         <REPREPAR>Pelar y cortar las patatas en rodajas no muy gruesas, freirlas en la olla exprés sin que lleguen a dorarse, pero que estén tiernas y también se le abrá añadido cebolla cortada a rodajas.
+Batir los huevos y mezclarlos con las patatas, en una sartén hechar un poquito de aceite, cuando esté caliente añadir la mezcla de patatas, darle forma con la espumadera e ir dandole la vuelta con un plato sopero hasta que esté cuajada y doradita, y por supuesto muy jugosa</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>6 1 0 0 0</REFRCARGO>
+         <REFRTIPO>Entremeses</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\fotos\hutopt.jpg</REIMAGEN>
+         <REESCAN>3.96</REESCAN>
+         <REMULTIP>3.25</REMULTIP>
+         <REPFINAL>6.44</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO></REFICHERO>
+         <REFCHINCO>20141022</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Paleo; Proteinas;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>PA0067</RECODIGO>
+         <RETITULO>ROMBOS A LAS HIERBAS CON TOMATE</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>PASTAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>500 g de rombos de pasta a las hierbas
+100 g de mantequilla
+500 g de pulpa de tomate.
+½ cebolla, finamente picada.
+1 ramito de hierbas aromáticas
+2 hojas de albahaca, finamente picadas
+Sal. Pimienta.
+</REINGRED>
+         <REPREPAR>Cocine los rombos de pasta en abundante agua con sal y un chorrito deaceite durante 10 minutos. Escúrralos y páselos a la bandeja de servir. Derrita la mantequilla en una cacerola grande y saltee la cebolla hasta que este transparente. Agregue la pulpa de tomate y las hierbas aromáticas, y rehogue durante 5 minutos. Condimente con sal y pimienta al gusto, sirva sobre la pasta y decore con la albahaca. 
+</REPREPAR>
+         <RETIEMPO>00:30</RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>2</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>‘‹‹</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>POTOCI</RECODIGO>
+         <RETITULO>TOCINILLO DE CIELO (F)</RETITULO>
+         <REPLATO>4</REPLATO>
+         <RETIPO>FLANES</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>450 grs de azúcar
+10 yemas de huevo
+3 claras de huevo
+Un vaso de agua</REINGRED>
+         <REPREPAR>Poner el agua con el azúcar en un cazo. Dejar hervir diez minutos y apartar el almíbar sin moverlo. Dejar enfriar. 
+En un cuenco, colocar las diez yemas de huevo y las tres claras. Mezclarlas bien dando vueltas sin quesalga espuma. 
+Añadir el almíbar frío a los huevos removiéndolo pocoa poco y verter el preparado en un molde recubierto de almíbar o azúcar tostada. 
+Taparlo y ponerlo al baño María en una olla con un poco de agua en el fondo, en la cesta metálica para que el molde no toque el fondo. 
+Dejar hervir unos veinte minutos. Sacar el tocino de cielo, dejar enfriar y desmoldar. 
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>2.00</REPRECIO>
+         <REPPC>1.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO>Salsas</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\fotos\potoci.jpg</REIMAGEN>
+         <REESCAN>3.11</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO>P0241</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>4</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>RES015</RECODIGO>
+         <RETITULO>SOLOMILLO DE RES  FRÍO CON SALSA DE RÁBANOS</RETITULO>
+         <REPLATO>3</REPLATO>
+         <RETIPO>CERDO</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI>Ternera</REINGPRI>
+         <RECOMENS>6</RECOMENS>
+         <REINGRED>600 gr. de Solomillo de Res 
+1/4 taza de ACEITE 
+1/4 taza de rábanos rallados 
+1/2 taza de mayonesa
+1/2 taza de vino blanco 
+1 sobrecito de gelatina sin sabor 
+jugo de medio limón 
+sal de ajo COLMAN´S
+pimienta al gusto 
+</REINGRED>
+         <REPREPAR>1. Se limpia el la carne de piel y membranas nerviosas.
+
+2. Seunta de aceite, sal de ajo y pimienta.
+
+3. Se cocina en un horno precalentado a 350 grados f durante 40 minutos enrollado en papel aluminio engrasado con la parte brillante hacia fuera.
+
+4. Se saca y se deja enfriar en la nevera 4/6 horas (mejor cocinarlo la noche anterior) antes de cortarlo en tajadas finas de 1 cm de espesor.. Mientras tanto se hace la salsa así:
+
+5. Los rábanos se lícuan y se escurren para sacarles el jugo, al cual se le agrega la mayonesa y la gelatina desleída en el vino y jugo de limón y se mezcla muy bien. Se puede colorear con anilinas del color deseado.
+
+6. Con la salsa, y sobre una rejilla, se cubren las rodajas de solomillo para que se mantengan húmedas.
+
+7. Se colocan las rodajas en semicírculo sobre platos individuales o sobre una bandeja de VAJILLAS CORONA de bonito diseño y color.
+
+8.Se decoran con rodajitas de rábano picante y otras hortalizas compatibles en color y sabor. Como decoración se pueden hacer unas rosetas de mayopure. 
+
+
+</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>COCINA PROPIA</REPUBLICA>
+         <REAUTOR>BENET CAMPS MARSAL</REAUTOR>
+         <REFRCARGO>1 2 1 0 0</REFRCARGO>
+         <REFRTIPO>Ligazones</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\FOTOS\RES015.JPG</REIMAGEN>
+         <REESCAN>5.50</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP>20120224</REFCHPREP>
+         <REVALORAC>10/10</REVALORAC>
+         <REVAORDEN>1</REVAORDEN>
+         <REUSUARIO>super</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>SOTOPA</RECODIGO>
+         <RETITULO>SOPA CAMPERA DE TOMATES Y PATATAS  (F)</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>SOPAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>1/2 kg de patatas,
+1 cebolla,
+2 dientes de ajo,
+2 pimientos rojo,
+1 pimiento verde,
+4 tomates rojos,
+1 pastilla de caldo de carne o aldo de carne,
+aceite de oliva,
+1 hoja de laurel,
+tomillo, orégano, romero,
+sal y pimienta,
+pan de pueblo asentado.</REINGRED>
+         <REPREPAR>En una cazuela poner el aceite a calentar, rehogar en ella la cebolla picada, los pimientos cortados en trozos no muy pequeños y los ajos prensados, cuando la verdura esté tierna añadimos el tomate pelado y troceado, rehogamos durante unos 10 minutos, añadimos  las patatas cortadas en rodajas de regular grosor. Cuando la cebolla esté transparente añadir el caldo, la hoja de laurel y una ramita de tomillo, orégano y romero, salpimentar, cuando las patatas estén tiernas, apartar.
+En otra cazuela poner las rebanadasde pan del dia anterior y echar sabre ellas el caldo anterior, comprobar de sal y servir caliente o fria, al gusto de cada cual.
+Receta típica de Extremadura.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>2.00</REPRECIO>
+         <REPPC>4.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>COCINA PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS></REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>3.53</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>ESPECTACULAR</REVALORAC>
+         <REVAORDEN>6</REVAORDEN>
+         <REUSUARIO>P0241</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>T00049</RECODIGO>
+         <RETITULO>TARTA DE MANZANA III</RETITULO>
+         <REPLATO>5</REPLATO>
+         <RETIPO>TARTAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>1 TAZA DE HARINA
+1/2 CUCHDTA. DE SAL
+4 CUCH. DE MANTEQUILLA SIN SAL
+1 CUCH. DE ACEITE DE MAÍZ
+3 CUCH. DE AGUA
+
+RELLENO:
+
+3 1/2 MANZANAS
+1/2 CUCH. DE JUGO DE LIMÓN
+4CUCH. DE AZÚCAR MORENA
+1/2 CUCHDTA DE CANELA
+1/4 CUCHDTA  DE TODA ESPECIA
+1/4 CUCHDTA DE POLVO DE JENGIBRE
+1/2 CUCH. DE HARINA
+1/2 CUCH. DE MARGARINA
+1/2 CUCHDTA. DE AZÚCAR
+1 CUCH. DELECHE</REINGRED>
+         <REPREPAR>PARA LA MASA:
+
+     Derrite la mantequilla a temperatura ambiente. Mezcla la mantequilla y la sal. Añadir la mantequilla y el aceite demaíz. Mezcla todo hasta que adquiera una consistencia de migas.
+
+     Rocia con agua fría y mezcla bien hasta que la masa forme una bola.Tapa con papel encerado y refrigera durante al menos 1/2 hora.
+
+RELLENO:
+
+     Pela, descorazona y lamina fina las manzanas. Echa éstas en jugo de limón para evitar que enegrezcan.
+
+     Mezcla el azúcar y especias juntos y añadirlo a la mezcla de manzana. Echar enla harina.
+
+     Corta la masa de tarta por la mitad y pasaleel rodillo hasta alisarloo , enrollarlo en el mismo rodillo y colocarlo enelfondo de un molde de tarta. Rellena  con la mezcla de manzana. Rocía porencima de la mezcla con margarina derretida .
+
+     Enrolla laotra mitad de masa en el rodillo y colocala sobre la tarta a modo de tapa.Sella todo el borde de la tarta muy bien.
+
+     Hacer incisionesdelgadas sobre la superficie de la tarta para que el vapor escape. Pintar la superficie de la tarta con  una mezcla de leche y un poco de azúcar.
+
+     Hornea a 425 ºF durante 10 minutos, Entonces baja la temperaturaa 350ºF y hornea durante otros 25 minutos.
+
+      La mejormanera de servirlo es con helado de vainilla por encima.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>4.00</REPPC>
+         <RECALORI>2</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA></REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO></REFRCARGO>
+         <REFRTIPO></REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>USA</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO></REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>TO-MAN</RECODIGO>
+         <RETITULO>TÓRTOLAS AL MODO DE MANOLITA   (F)</RETITULO>
+         <REPLATO>3</REPLATO>
+         <RETIPO>CAZA</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>100</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>4 TÓRTOLAS,
+3 CEBOLLAS,
+1 CUCHARADA PAN RALLADO,
+1 VASO VINO BLANCO,
+1/ L CALDO DE AVE,
+2 DIENTES DE AJO,
+100 GR DE ALMENDRAS FRITAS,
+1 CUCHARADA DE PEREJIL PICADO,
+ACEITE DE OLIVA,
+SAL Y PIMIENTA.</REINGRED>
+         <REPREPAR>Limpiamos las tórtolas, quemamos las plumillas y salpimentamos por dentro y por fuera. Las ponemos en una cazuela con aceite caliente hasta que estén doarditas, sacamos y reservamos.
+
+En el mismo aceite ponemos las cebollas a pochar, añadimos el pan rallado, el vino y el caldo; incorporamos las tórtolas a la cazuela y las tenemos a fuego lento hasta que estén tiernas, antes de terminar la cocción echamos sobre la cazuela un majadode perejil, ajo y las  almendras con un poco de vino, cuando se hayan mezclado bien los sabores servimos en la misma cazuela, podemos acompañar de pan frito.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>2</REDIFICU>
+         <REPRECIO>2000.00</REPRECIO>
+         <REPPC>500.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>PROPIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>11 0 0 0 0</REFRCARGO>
+         <REFRTIPO>Entremeses</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS>España</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN>.\FOTOS\TOMANO.JPG</REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>MUY BUENA</REVALORAC>
+         <REVAORDEN>7</REVAORDEN>
+         <REUSUARIO>P0242</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS>Dunkan;</REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>VE0094</RECODIGO>
+         <RETITULO>SETAS A LA RIOJANA</RETITULO>
+         <REPLATO>2</REPLATO>
+         <RETIPO>VERDURAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI></REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>Seta , 500 gramos 
+Pimiento rojo , 1 unidad 
+Perejil , al gusto 
+Pimienta negra molida , al gusto 
+Aceite de oliva , 3 cucharadas 
+ Jamón serrano , 150 gramos 
+Vino blanco , 1/2 taza 
+Sal , al gusto 
+Ajo , 2 dientes 
+</REINGRED>
+         <REPREPAR>Lavar el pimiento, ponerlo en la llama para poder pelarlo o asarlo en el horno. Pelarlo, quitar las semillas y cortarlo en tiras. Limpiar las setas frotándolas con un paño limpio, quitando toda la tierra o lavarlas cambiandovarias veces el agua. Si se lavan hay que secarlas después. Trocear las setas.
+Pelar los ajos y picarlos. Calentar el aceite en una sartén y dorar los ajos, incorporar las setas, revolver, salpimentar y regar con el vino. Cocer destapadas, a fuego medio, durante 30 minutos. Incorporar las tiras de pimiento, dar un hervor y servir.</REPREPAR>
+         <RETIEMPO>00:45</RETIEMPO>
+         <REDIFICU>2</REDIFICU>
+         <REPRECIO>0.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>http://www.cocinavino.com/</REPUBLICA>
+         <REAUTOR></REAUTOR>
+         <REFRCARGO>8 0 0 0 0</REFRCARGO>
+         <REFRTIPO>Verduras y hortalizas</REFRTIPO>
+         <REEMAIL></REEMAIL>
+         <REPAIS>España</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC></REVALORAC>
+         <REVAORDEN>0</REVAORDEN>
+         <REUSUARIO>P0038</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>RECCON~1.PCH</REFICHERO>
+         <REFCHINCO>20041023</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+      <Record>
+         <RECODIGO>VRTMCN</RECODIGO>
+         <RETITULO>TOMATES CONFITADOS (F)</RETITULO>
+         <REPLATO>1</REPLATO>
+         <RETIPO>VERDURAS</RETIPO>
+         <RETIPOCOC></RETIPOCOC>
+         <REEPOCA>1111</REEPOCA>
+         <REINGPRI>Cerdo</REINGPRI>
+         <RECOMENS>4</RECOMENS>
+         <REINGRED>10 tomates
+1 diente de ajo
+10 hojas de albahaca
+10 ramitas de tomillo fresco
+aceite de oliva virgen extra
+1/2 cucharadita de te de azúcar
+sal y pimienta negra</REINGRED>
+         <REPREPAR>Pelar los tomates una vez escaldados en agua caliente y después en agua muy fria. Después cortar por la mitad y dejar secar sobre papel de cocina. Pintarlos generosamente por todos los lados con aceite de oliva y poner dentro de cada uno, una lámina de ajo, un poco de laurel triturado, albahaca y tomillo. Salpimentar cuidadosamente y espolvorear con azúcar.
+
+Meter en el horno previamente calentado y ternerlos con la parte cortada hacia arriba unas 4 horas y a las dos horas darles la vuelta. El tiempo de horneado dependerá de lo maduros que estén los tomates. Cuando estén hechos tendrán un intenso color rojo y ligeramente arrugados. Podemos guardarlos en recipientes hermeticos cubiertos de aceite de oliva y junto a las hierbas aromaticas que se han usado. Son deliciossos casi con cualquier cosa y el aceite es magnifico para ensaladas.</REPREPAR>
+         <RETIEMPO></RETIEMPO>
+         <REDIFICU>1</REDIFICU>
+         <REPRECIO>1.00</REPRECIO>
+         <REPPC>0.00</REPPC>
+         <RECALORI>1</RECALORI>
+         <RETRUCOS></RETRUCOS>
+         <REVINO></REVINO>
+         <REPUBLICA>FRANCIA</REPUBLICA>
+         <REAUTOR>AGUSTÍN CARANDE SÁNCHEZ-BARRIGA</REAUTOR>
+         <REFRCARGO>512 0 0 0</REFRCARGO>
+         <REFRTIPO>TOMATES</REFRTIPO>
+         <REEMAIL>carande-s@terra.es</REEMAIL>
+         <REPAIS>ESPAÑA</REPAIS>
+         <RENUMERO>0</RENUMERO>
+         <REPAGINA>0</REPAGINA>
+         <RESELECC>X</RESELECC>
+         <REIMAGEN></REIMAGEN>
+         <REESCAN>0.00</REESCAN>
+         <REMULTIP>0.00</REMULTIP>
+         <REPFINAL>0.00</REPFINAL>
+         <REREFEREN></REREFEREN>
+         <REANOTACI></REANOTACI>
+         <REFCHPREP></REFCHPREP>
+         <REVALORAC>DECORATIVA</REVALORAC>
+         <REVAORDEN>8</REVAORDEN>
+         <REUSUARIO>P0241</REUSUARIO>
+         <REINCORP>2</REINCORP>
+         <REFICHERO>p13.pch</REFICHERO>
+         <REFCHINCO>20041027</REFCHINCO>
+         <REEXPRES>False</REEXPRES>
+         <REDIETAS></REDIETAS>
+         <REURL></REURL>
+         <RECOMESC>1</RECOMESC>
+      </Record>
+   </Data>
+</Recetas>
+<Escandallo>
+   <Structure>
+      <Field>
+         <Field_name>ESRECETA</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESUSUARIO</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESINGRED</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         6</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESCANTIDAD</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>        12</Field_length>
+         <Field_decimals>         3</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESCANFIJA</Field_name>
+         <Field_type>Logical</Field_type>
+      </Field>
+      <Field>
+         <Field_name>ESUNIDAD</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESPRECIO</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>        10</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESKCAL</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         8</Field_length>
+         <Field_decimals>         2</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESINDENOMI</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        30</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESPROVEED</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>        50</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESDIA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESCOMIDA</Field_name>
+         <Field_type>Numeric</Field_type>
+         <Field_length>         1</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+      <Field>
+         <Field_name>ESFECHA</Field_name>
+         <Field_type>Date</Field_type>
+      </Field>
+      <Field>
+         <Field_name>ESHORA</Field_name>
+         <Field_type>Character</Field_type>
+         <Field_length>         5</Field_length>
+         <Field_decimals>         0</Field_decimals>
+      </Field>
+   </Structure>
+   <Data>
+      <Record>
+         <ESRECETA>POTOCI</ESRECETA>
+         <ESUSUARIO>P0241</ESUSUARIO>
+         <ESINGRED>AGUA</ESINGRED>
+         <ESCANTIDAD>0.300</ESCANTIDAD>
+         <ESCANFIJA>False</ESCANFIJA>
+         <ESUNIDAD>LITRO</ESUNIDAD>
+         <ESPRECIO>0.09</ESPRECIO>
+         <ESKCAL>0.00</ESKCAL>
+         <ESINDENOMI>AGUA MINERAL</ESINDENOMI>
+         <ESPROVEED></ESPROVEED>
+         <ESDIA>0</ESDIA>
+         <ESCOMIDA>0</ESCOMIDA>
+         <ESFECHA></ESFECHA>
+         <ESHORA></ESHORA>
+      </Record>
+      <Record>
+         <ESRECETA>POTOCI</ESRECETA>
+         <ESUSUARIO>P0241</ESUSUARIO>
+         <ESINGRED>AZUBLA</ESINGRED>
+         <ESCANTIDAD>0.450</ESCANTIDAD>
+         <ESCANFIJA>False</ESCANFIJA>
+         <ESUNIDAD>KILO</ESUNIDAD>
+         <ESPRECIO>0.43</ESPRECIO>
+         <ESKCAL>0.00</ESKCAL>
+         <ESINDENOMI>AZUCAR BLANCO</ESINDENOMI>
+         <ESPROVEED></ESPROVEED>
+         <ESDIA>0</ESDIA>
+         <ESCOMIDA>0</ESCOMIDA>
+         <ESFECHA></ESFECHA>
+         <ESHORA></ESHORA>
+      </Record>
+      <Record>
+         <ESRECETA>POTOCI</ESRECETA>
+         <ESUSUARIO>P0241</ESUSUARIO>
+         <ESINGRED>HU-CL1</ESINGRED>
+         <ESCANTIDAD>0.500</ESCANTIDAD>
+         <ESCANFIJA>False</ESCANFIJA>
+         <ESUNIDAD>MEDIADOCEN</ESUNIDAD>
+         <ESPRECIO>0.60</ESPRECIO>
+         <ESKCAL>23.00</ESKCAL>
+         <ESINDENOMI>HUEVO, CLARA</ESINDENOMI>
+         <ESPROVEED></ESPROVEED>
+         <ESDIA>0</ESDIA>
+         <ESCOMIDA>0</ESCOMIDA>
+         <ESFECHA></ESFECHA>
+         <ESHORA></ESHORA>
+      </Record>
+      <Record>
+         <ESRECETA>POTOCI</ESRECETA>
+         <ESUSUARIO>P0241</ESUSUARIO>
+         <ESINGRED>HU-YE1</ESINGRED>
+         <ESCANTIDAD>1.660</ESCANTIDAD>
+         <ESCANFIJA>False</ESCANFIJA>
+         <ESUNIDAD>MEDIADOCEN</ESUNIDAD>
+         <ESPRECIO>1.99</ESPRECIO>
+         <ESKCAL>562.74</ESKCAL>
+         <ESINDENOMI>HUEVO, YEMA</ESINDENOMI>
+         <ESPROVEED></ESPROVEED>
+         <ESDIA>0</ESDIA>
+         <ESCOMIDA>0</ESCOMIDA>
+         <ESFECHA></ESFECHA>
+         <ESHORA></ESHORA>
+      </Record>
+   </Data>
+</Escandallo>
+</ROOT>

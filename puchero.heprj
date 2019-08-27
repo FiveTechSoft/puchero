@@ -1,0 +1,79 @@
+<XMLConfigSettings>
+	<FILEINFO type="ProjectFile">
+		<Type>ProjectFile</Type>
+	</FILEINFO>
+	<Properties>
+		<WorkDirectory>c:\\alanit\\develop\\puchero</WorkDirectory>
+		<PLanguage>clipper</PLanguage>
+		<Encoding>-1</Encoding>
+		<CRLFMode>-1</CRLFMode>
+		<RootDirectory>c:\\alanit\\develop\\puchero</RootDirectory>
+	</Properties>
+	<NODES>
+		<Folder open="true" name="PCH">
+			<File name=".\\prg\\pch\\Main.prg"/>
+			<File name=".\\prg\\pch\\PAccion.prg"/>
+			<File name=".\\prg\\pch\\PAliment.prg"/>
+			<File name=".\\prg\\pch\\PAutor.prg"/>
+			<File name=".\\prg\\pch\\PDietas.prg"/>
+			<File name=".\\prg\\pch\\PEscanda.prg"/>
+			<File name=".\\prg\\pch\\PFrances.prg"/>
+			<File name=".\\prg\\pch\\PGrupos.prg"/>
+			<File name=".\\prg\\pch\\PIngredi.prg"/>
+			<File name=".\\prg\\pch\\PMenus.prg"/>
+			<File name=".\\prg\\pch\\PMenusem.prg"/>
+			<File name=".\\prg\\pch\\PPlatos.prg"/>
+			<File name=".\\prg\\pch\\PProveed.prg"/>
+			<File name=".\\prg\\pch\\PPublica.prg"/>
+			<File name=".\\prg\\pch\\PRecetas.prg"/>
+			<File name=".\\prg\\pch\\PUbicaci.prg"/>
+			<File name=".\\prg\\pch\\PValorac.prg"/>
+		</Folder>
+		<Folder open="true" name="Alanit">
+			<File name=".\\prg\\alanit\\c5imglis.prg"/>
+			<File name=".\\prg\\alanit\\c5tip.prg"/>
+			<File name=".\\prg\\alanit\\c5vitem.prg"/>
+			<File name=".\\prg\\alanit\\c5vmenu.prg"/>
+			<File name=".\\prg\\alanit\\tagever2.prg"/>
+			<File name=".\\prg\\alanit\\tfsdi.prg"/>
+			<File name=".\\prg\\alanit\\tInforme.prg"/>
+			<File name=".\\prg\\alanit\\tips.prg"/>
+			<File name=".\\prg\\alanit\\tsayref.prg"/>
+			<File name=".\\prg\\alanit\\Tword.prg"/>
+			<File name=".\\prg\\alanit\\tzoomImage.prg"/>
+			<File name=".\\prg\\alanit\\ut_brw.prg"/>
+			<File name=".\\prg\\alanit\\ut_calend.prg"/>
+			<File name=".\\prg\\alanit\\ut_common.prg"/>
+			<File name=".\\prg\\alanit\\ut_dbf.prg"/>
+			<File name=".\\prg\\alanit\\ut_fonts.prg"/>
+			<File name=".\\prg\\alanit\\ut_index.prg"/>
+			<File name=".\\prg\\alanit\\ut_msg.prg"/>
+			<File name=".\\prg\\alanit\\zipbackup.prg"/>
+		</Folder>
+		<Folder open="true" name="FWH">
+			<File name=".\\prg\\fwh\\rpreview.prg"/>
+			<File name=".\\prg\\fwh\\rtffile.prg"/>
+			<File name=".\\prg\\fwh\\tabs.prg"/>
+			<File name=".\\prg\\fwh\\tautoget.prg"/>
+		</Folder>
+		<Folder open="true" name="documentos">
+			<File name=".\\docum\\todolist.txt"/>
+			<File name=".\\docum\\whatsnew.txt"/>
+		</Folder>
+		<Folder open="true" name="make">
+			<File name=".\\.gitignore"/>
+			<File name=".\\makefile\\clean.bat"/>
+			<File name=".\\Error.log"/>
+			<File name=".\\puchero.ini"/>
+			<File name=".\\recursos\\puchero.rc"/>
+			<File name=".\\makefile\\rc32.bat"/>
+			<File name=".\\makefile\\pch1905.bc"/>
+			<File name=".\\makefile\\pch1905.mak"/>
+		</Folder>
+		<Tool name="&gt;&gt; hbformat" arguments="@C:\\alanit\\develop\\hbformat.ini %FileName% " initial_dir="%FileDir%" capture_output="true" context_menu="true" save="1" key="120" command="c:\\Fivetech\\hb32\\bin\\hbformat.exe"/>
+		<Tool name="&gt;&gt; clean" initial_dir="c:\\alanit\\develop\\puchero" capture_output="true" context_menu="true" save="3" command="c:\\alanit\\develop\\puchero\\makefile\\clean.bat"/>
+		<Tool name="&gt;&gt; rc32" initial_dir="%ProjectDir%" capture_output="true" context_menu="true" toolbar="false" save="3" key="121" command="c:\\alanit\\develop\\puchero\\makefile\\rc32.bat"/>
+		<Tool name="&gt;&gt; build 1905" arguments="-f %ProjectDir%\\makefile\\pch1905.mak" initial_dir="c:\\alanit\\develop\\puchero" capture_output="true" save="3" key="122" command="C:\\BCC\\BCC7\\bin\\make.exe"/>
+		<Tool name="puchero" key="123" command="c:\\alanit\\develop\\puchero\\puchero.exe"/>
+	</NODES>
+</XMLConfigSettings>

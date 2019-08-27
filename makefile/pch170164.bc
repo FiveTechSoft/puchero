@@ -1,0 +1,77 @@
+c:\bcc7264\lib\c0w64.o + 
+ 	.\OBJ\MAIN.OBJ 		+
+   .\OBJ\PACCION.OBJ	+
+   .\OBJ\PALIMENT.OBJ 	+
+   .\OBJ\PAUTOR.OBJ 	+
+   .\OBJ\PDIETAS.OBJ	+
+   .\OBJ\PESCANDA.OBJ 	+
+   .\OBJ\PFRANCES.OBJ 	+
+   .\OBJ\PGRUPOS.OBJ 	+
+   .\OBJ\PINGREDI.OBJ 	+
+   .\OBJ\PMENUS.OBJ 	+
+   .\OBJ\PMENUSEM.OBJ 	+
+   .\OBJ\PPLATOS.OBJ 	+
+   .\OBJ\PPROVEED.OBJ 	+
+   .\OBJ\PPUBLICA.OBJ 	+
+   .\OBJ\PRECETAS.OBJ 	+
+   .\OBJ\PUBICACI.OBJ	+
+   .\OBJ\PVALORAC.OBJ	+
+   .\OBJ\C5BMP.OBJ	  	+
+   .\OBJ\C5IMGLIS.OBJ  +
+   .\OBJ\C5TIP.OBJ 	+
+   .\OBJ\C5VITEM.OBJ	+
+   .\OBJ\C5VMENU.OBJ	+
+   .\OBJ\ERRSYSW.OBJ	+
+   .\OBJ\REPORT1406.OBJ+
+   .\OBJ\RPREVIEW1406.OBJ+
+   .\OBJ\RTFFILE.OBJ	+
+   .\OBJ\TABS.OBJ 		+
+   .\OBJ\TAGET.OBJ		+
+   .\OBJ\TAGEVER2.OBJ	+
+   .\OBJ\TAUTOGET.OBJ	+
+   .\OBJ\TFSDI.OBJ 	+
+   .\OBJ\TINFORME.OBJ  +
+   .\OBJ\TIPS.OBJ 		+
+   .\OBJ\TSAYREF.OBJ 	+
+   .\OBJ\TZOOMIMAGE.OBJ+
+   .\OBJ\UT_BRW.OBJ	+
+   .\OBJ\UT_CALEND.OBJ	+
+   .\OBJ\UT_COMMON.OBJ	+
+   .\OBJ\UT_DBF.OBJ	+
+   .\OBJ\UT_INDEX.OBJ 	+
+   .\OBJ\ZIPBACKUP.OBJ,+	
+puchero.exe, +
+puchero.map, +
+c:\Fivetech\hb64\lib\Five64.a c:\Fivetech\hb64\lib\FiveC64.a + 
+c:\fivetech\hb64\lib\bcc64\hbrtl.a + 
+c:\fivetech\hb64\lib\bcc64\hbvm.a + 
+c:\fivetech\hb64\lib\bcc64\gtgui.a + 
+c:\fivetech\hb64\lib\bcc64\hblang.a + 
+c:\fivetech\hb64\lib\bcc64\hbmacro.a + 
+c:\fivetech\hb64\lib\bcc64\hbrdd.a + 
+c:\fivetech\hb64\lib\bcc64\rddntx.a + 
+c:\fivetech\hb64\lib\bcc64\rddcdx.a + 
+c:\fivetech\hb64\lib\bcc64\rddfpt.a + 
+c:\fivetech\hb64\lib\bcc64\hbsix.a + 
+c:\fivetech\hb64\lib\bcc64\hbdebug.a + 
+c:\fivetech\hb64\lib\bcc64\hbcommon.a + 
+c:\fivetech\hb64\lib\bcc64\hbpp.a + 
+c:\fivetech\hb64\lib\bcc64\hbwin.a + 
+c:\fivetech\hb64\lib\bcc64\hbcpage.a + 
+c:\fivetech\hb64\lib\bcc64\hbct.a + 
+c:\fivetech\hb64\lib\bcc64\hbcplr.a + 
+c:\fivetech\hb64\lib\bcc64\hbpcre.a + 
+c:\fivetech\hb64\lib\bcc64\xhb.a + 
+c:\fivetech\hb64\lib\bcc64\hbziparc.a + 
+c:\fivetech\hb64\lib\bcc64\hbmzip.a + 
+c:\fivetech\hb64\lib\bcc64\hbzlib.a + 
+c:\fivetech\hb64\lib\bcc64\minizip.a + 
+c:\fivetech\hb64\lib\bcc64\png.a + 
+c:\fivetech\hb64\lib\bcc64\hbusrrdd.a + 
+c:\fivetech\hb64\lib\bcc64\hbtip.a + 
+c:\bcc7264\lib\cw64.a +
+c:\bcc7264\lib\psdk\kernel32.a +
+c:\bcc7264\lib\psdk\user32.a +
+c:\bcc7264\lib\psdk\iphlpapi.a + 
+c:\bcc7264\lib\import64.a, 
+puchero.res
